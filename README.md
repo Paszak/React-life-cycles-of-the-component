@@ -1,3 +1,3 @@
-# zadanie_14_6
+# React-life-cycles-of-the-component
 Stan i cykle życia komponentu
-https://paszak.github.io/zadanie_14_6/
+https://paszak.github.io/React-life-cycles-of-the-component/
